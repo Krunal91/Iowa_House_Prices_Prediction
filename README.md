@@ -19,7 +19,7 @@ All the code files are located in the notebook folder.
 ## How to run the code ?
 You have to run "Data Preprocessing" file first. Just open the file in jupyter and run all the cell.  
 
-*Data Preprocessing -> Data Visulization -> All_algorithms / Best Algorithms / PCA with Lasso (You can select  any one of these three)*  
+**Data Preprocessing -> Data Visulization -> All_algorithms / Best Algorithms / PCA with Lasso (You can select  any one of these three)**  
 
 **File execution should follow above pipeline.**
 
